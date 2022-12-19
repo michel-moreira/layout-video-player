@@ -1,6 +1,6 @@
 # Layout de tela de vídeo símile ao Youtube
 
-Nesse repositório, aplico os conhecimentos de *HTML* e *CSS*, sobretudo, com o uso das ferramentas de display **grid** e **flexbox**, responsáveis por definirem os layout de uma página.
+Nesse repositório, aplico os conhecimentos de *HTML* e *CSS*, sobretudo, com o uso das ferramentas de display **grid** e **flexbox**, responsáveis por definirem o layout de uma página.
 
 ![Screenshot da página](./design/Screenshot_1.png)
 
